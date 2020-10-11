@@ -13,7 +13,7 @@ If you improve the app in any way a PR would be very apreciated ;)
 
 # Build
 Clone the repo:
-> git clone https://github.com/wordssaysalot/Personal_website/
+> git clone https://github.com/wordssaysalot/Personal_website.git
 
 
 # Install dependencies and run build command:
