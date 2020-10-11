@@ -1,5 +1,6 @@
 # personal_website
 This is my personal website built using ReactJS and Bulma as the CSS framework. 
+
 The personal information on the website is populated from a json file that follows the JSON Resume open source standard.
 
 # Contributing
@@ -12,13 +13,15 @@ If you improve the app in any way a PR would be very apreciated ;)
 
 # Build
 Clone the repo:
-> git clone https://github.com/jcoelho93/personal-website.git
-Update the resume.json with your personal information (check JSON Resume)
+> git clone https://github.com/wordssaysalot/personal-website.git
+
 
 # Install dependencies and run build command:
 
 > npm install
+
 > npm run build
+
 You can also test the app with a development server, just run:
 
 > npm start
